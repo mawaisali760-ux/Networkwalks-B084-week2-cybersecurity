@@ -1,6 +1,6 @@
 # Module 2 – Footprinting with GHDB (Google Hacking Database)
 
-**Internship:** [Networkwalks]
+**Internship:** [Networkwalks-Cybersecurity]
 **Intern:** [Awais Sajjad]
 **Week:** 2
 
