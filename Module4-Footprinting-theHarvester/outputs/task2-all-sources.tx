@@ -1,0 +1,1177 @@
+theHarvester -d microsoft.com -l 50 -b all
+Read proxies.yaml from /etc/theHarvester/proxies.yaml
+*******************************************************************
+*  _   _                                            _             *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __|  _ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* theHarvester 4.11.1                                             *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*                                                                 *
+*******************************************************************
+
+[*] Target: microsoft.com 
+
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Failed to process bevigil search for word: 'microsoft.com'
+Error Message: 
+[!] Missing API key for bevigil. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+
+[!] Missing API key for Bitbucket. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Failed to process bufferoverun search for word: 'microsoft.com'
+Error Message: 
+[!] Missing API key for bufferoverun. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Failed to perform BuiltWith search for word: 'microsoft.com'
+A Missing Key Error occurred in builtwith: 
+[!] Missing API key for BuiltWith. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Failed to process brave search for word: 'microsoft.com'
+Error Message: 
+[!] Missing API key for Brave Search. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Censys API key is missing or invalid: 
+[!] Missing API key for Censys ID and/or Secret. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing key error occurred in criminalip: 
+[!] Missing API key for criminalip. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in dehashed: 
+[!] Missing API key for Dehashed. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+
+[!] Missing API key for DNSDumpster. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in dymo: 
+[!] Missing API key for dymo. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in fullhunt: 
+[!] Missing API key for fullhunt. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Error initializing SearchGithubCode: 
+[!] Missing API key for Github. 
+A Missing Key error occurred in github-code: 
+[!] Missing API key for Github. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+
+[!] Missing API key for HaveIBeenPwned. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in Hunter: 
+[!] Missing API key for Hunter. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in Hunter How: 
+[!] Missing API key for hunterhow. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in intelx: 
+[!] Missing API key for Intelx. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+[*] Mojeek: No API key found, using default scraping mode.
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in Netlas: 
+[!] Missing API key for netlas. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Unexpected error occurred in Onyphe module: 
+[!] Missing API key for onyphe. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in PentestTools search: 
+[!] Missing API key for PentestTools. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in ProjectDiscovery: 
+[!] Missing API key for ProjectDiscovery. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in RocketReach: 
+[!] Missing API key for RocketReach. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+
+[!] Missing API key for SecurityScorecard. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred Security Trails: 
+[!] Missing API key for Securitytrail. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in sherlockeye: 
+[!] Missing API key for sherlockeye. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in Shodan search: 
+[!] Missing API key for Shodan. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in Tomba: 
+[!] Missing API key for Tomba Key and/or Secret. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in venacus search: 
+[!] Missing API key for Venacus. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in virustotal search: 
+[!] Missing API key for virustotal. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in whoisxml search: 
+[!] Missing API key for whoisxml. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in zoomeye: 
+[!] Missing API key for zoomeye. 
+[*] Searching Baidu. 
+        Searching results.
+[*] Searching Certspotter. 
+Chaos API error: get access token here https://cloud.projectdiscovery.io
+[*] Searching Chaos. 
+[*] Searching Duckduckgo. 
+[*] Searching Commoncrawl. 
+Fofa API error: [-700] 账号无效
+Failed to parse Fofa response: 
+[!] Missing API key for Fofa API (Invalid credentials). 
+[*] Searching Fofa. 
+[*] Searching Hackertarget. 
+2026-11-12 18:24:17,987 - theHarvester.discovery.hudsonrocksearch - INFO - Starting Hudson Rock processing for: microsoft.com
+2026-11-12 18:24:17,988 - theHarvester.discovery.hudsonrocksearch - INFO - Starting Hudson Rock search for: microsoft.com
+2026-11-12 18:24:45,087 - theHarvester.discovery.hudsonrocksearch - INFO - Domain statistics: 621809 total compromised, 16601 employees, 600418 users
+2026-11-12 18:24:45,096 - theHarvester.discovery.hudsonrocksearch - INFO - Extracted 44 hosts from employee URLs
+2026-11-12 18:24:46,099 - theHarvester.discovery.hudsonrocksearch - INFO - Hudson Rock search completed. Found 44 hosts, 0 IPs, 0 emails
+2026-11-12 18:24:46,099 - theHarvester.discovery.hudsonrocksearch - INFO - Hudson Rock processing completed successfully: 44 hosts, 0 IPs, 0 emails, 0 stealers
+[*] Searching Hudsonrock. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+[*] Searching CRTsh. 
+[*] Searching Leaklookup. 
+LeakIX API requires authentication: "Incorrect API Key"
+[*] Searching Mojeek. 
+[*] Searching Otx. 
+[*] Searching Leakix. 
+[*] Searching Rapiddns. 
+[*] Searching Robtex. 
+[*] Searching ShodanInternetDB. 
+[*] Searching Subdomainfinderc99. 
+An exception has occurred in THC: Cannot connect to host ip.thc.org:443 ssl:default [Timeout while contacting DNS servers]
+[*] Searching Thc. 
+No response from ThreatCrowd API for: microsoft.com
+[*] Searching Threatcrowd. 
+[*] Searching Subdomaincenter. 
+[*] Searching Urlscan. 
+[*] Windvane API key not found. Using limited unauthenticated access.
+[*] API unavailable, using fallback subdomain pattern search...
+[*] Found 14 subdomains using DNS fallback
+[*] Searching Windvane. 
+[*] Searching Yahoo. 
+[*] Searching Gitlab. 
+[*] Searching Waybackarchive. 
+
+[*] ASNS found: 7
+--------------------
+AS13335
+AS133618
+AS16509
+AS206834
+AS396982
+AS40034
+AS8075
+
+[*] Interesting Urls found: 5
+--------------------
+https://auto-belcenab-pbi-kv-httpszone29.z29.w.api.fabric.microsoft.com/
+https://auto-belcenab-pbi-kv-httpszonee8.ze8.w.api.fabric.microsoft.com/
+https://auto-frasoubb-pbi-kv-httpszone07.z07.w.api.fabric.microsoft.com/
+https://auto-frasoubb-pbi-kv-httpszone28.z28.w.api.fabric.microsoft.com/
+https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize?client_id=c44b4083-3bb0-49c1-b47d-974e53cbdf3c&scope=https%3A%2F%2Fmanagement.core.windows.net%2F%2F.default%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fintune.microsoft.com%2Fauth%2Flogin%2F&client-request-id=01a1d206-be26-77e9-aa7f-d156987784e9&response_mode=fragment&client_info=1&clidata=1&nonce=01a1d206-be27-773e-b56b-a4696562e44f&state=eyJpZCI6IjAxYTFkMjA2LWJlMjctN2E1OS05YjA3LWU0NzgxM2IxMzBiYyIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D&claims=%7B%22id_token%22%3A%7B%22signin_state%22%3A%7B%22essential%22%3Afalse%7D%2C%22login_hint%22%3A%7B%22essential%22%3Afalse%7D%7D%7D&x-client-SKU=msal.js.browser&x-client-VER=5.18.0&response_type=code&code_challenge=HbFzqjYR8rG9u1gmi5DsNDQvc15J8uO6RMipLKe8gVA&code_challenge_method=S256&site_id=501430&instance_aware=true
+
+[*] No LinkedIn users found.
+
+
+
+[*] LinkedIn Links found: 0
+---------------------
+
+[*] IPs found: 149
+-------------------
+103.224.212.141
+103.224.212.142
+104.119.105.114
+104.215.148.63
+104.40.211.35
+104.43.195.251
+13.107.213.40
+13.107.213.69
+13.107.226.35
+13.107.226.40
+13.107.226.41
+13.107.226.67
+13.107.226.69
+13.107.226.70
+13.107.226.71
+13.107.246.40
+13.107.246.69
+13.107.253.35
+13.107.253.40
+13.107.253.41
+13.107.253.67
+13.107.253.69
+13.107.253.70
+13.107.253.71
+13.77.161.179
+134.170.185.46
+134.170.188.221
+134.170.188.232
+150.171.109.100
+150.171.109.101
+150.171.109.106
+150.171.109.113
+150.171.109.114
+150.171.109.115
+150.171.109.116
+150.171.109.117
+150.171.109.118
+150.171.109.119
+150.171.109.131
+150.171.109.145
+150.171.109.146
+150.171.109.147
+150.171.109.148
+150.171.109.149
+150.171.109.150
+150.171.109.151
+150.171.109.152
+150.171.109.153
+150.171.109.154
+150.171.109.162
+150.171.109.163
+150.171.109.165
+150.171.109.185
+150.171.109.197
+150.171.109.213
+150.171.109.215
+150.171.109.216
+150.171.109.230
+150.171.109.245
+150.171.109.33
+150.171.109.34
+150.171.109.35
+150.171.109.36
+150.171.109.37
+150.171.109.53
+150.171.109.65
+150.171.109.66
+150.171.109.68
+150.171.109.69
+150.171.109.70
+150.171.109.71
+150.171.109.72
+150.171.109.73
+150.171.109.74
+150.171.109.75
+150.171.109.76
+150.171.109.77
+150.171.110.145
+150.171.110.146
+150.171.110.147
+150.171.110.148
+150.171.110.149
+150.171.110.151
+150.171.110.152
+150.171.110.177
+150.171.110.193
+150.171.110.194
+150.171.110.2
+150.171.110.209
+150.171.110.21
+150.171.110.211
+150.171.110.36
+150.171.110.4
+150.171.110.5
+150.171.110.53
+150.171.110.56
+150.171.110.7
+150.171.73.13
+172.64.146.215
+185.53.179.200
+191.239.213.197
+199.191.50.11
+199.191.50.184
+199.191.50.190
+199.191.50.233
+199.191.50.72
+199.191.50.73
+199.191.50.82
+199.191.50.83
+20.112.250.133
+20.190.159.129
+20.190.159.64
+20.190.160.66
+20.231.239.246
+20.42.6.2
+20.76.201.171
+204.11.56.246
+204.11.56.48
+208.91.196.145
+208.91.196.152
+208.91.197.13
+208.91.197.132
+208.91.197.23
+208.91.197.24
+208.91.197.27
+208.91.197.39
+208.91.197.7
+23.100.122.175
+23.36.253.221
+23.50.85.217
+23.96.52.53
+2603:1026:3000:d0::
+2603:1027:1:150::3
+2603:1027:1:158::8
+2603:1027:1:158::a
+34.117.147.204
+35.71.137.230
+40.112.72.205
+40.113.200.201
+40.126.18.32
+40.126.24.147
+40.126.31.0
+40.126.62.131
+40.76.4.15
+40.90.65.122
+40.90.65.199
+51.116.144.128
+65.55.186.235
+
+[*] Emails found: 3
+----------------------
+dotnet-docker-bot@microsoft.com
+opencode@microsoft.com
+secure@microsoft.com
+
+[*] No people found.
+
+[*] Hosts found: 816
+---------------------
+001-euno.emea.prod.cos.audience.teams.microsoft.com
+001-usea.cipint.ivr.cos.mediapaas.infra.teams.microsoft.com
+006-ussc1.noam.prod.cos.audience.teams.microsoft.com
+01-usea2.noam.dog.avbot.meetingbots.teams.microsoft.com
+04-eus.noam.prd.api.mediapaas.teams.microsoft.com
+18-euno.emea.prd.audience.teams.microsoft.com
+1s.sit-cdn.webapps.microsoft.com
+26-usce.noam.prd.audience.teams.microsoft.com
+2Fblogs.microsoft.com
+2Fdocs.microsoft.com
+2Fdownload.microsoft.com
+2Fmsdn.microsoft.com
+2Fnews.microsoft.com
+37255490-671b-4935-81f4-e61abd8a1992.rddiagnostics-g-us-r1.wvd.microsoft.com
+39-euweu.emea.prd.audience.teams.microsoft.com
+459e460b-0be6-4614-8396-f413731f42d3.rdbroker-g-eu-r1.wvd.microsoft.com
+52-114-124-137.relay.teams.microsoft.com
+52-114-126-184.relay.teams.microsoft.com
+52-114-126-218.relay.teams.microsoft.com
+52-114-188-86.relay.teams.microsoft.com
+52-114-190-111.relay.teams.microsoft.com
+52-114-190-45.relay.teams.microsoft.com
+52-114-191-37.relay.teams.microsoft.com
+52-114-191-83.relay.teams.microsoft.com
+52-114-220-210.relay.teams.microsoft.com
+52-114-220-235.relay.teams.microsoft.com
+52-114-221-223.relay.teams.microsoft.com
+52-114-223-133.relay.teams.microsoft.com
+52-114-60-138.relay.teams.microsoft.com
+52-114-60-58.relay.teams.microsoft.com
+52-114-62-129.relay.teams.microsoft.com
+52-114-62-99.relay.teams.microsoft.com
+52-114-63-173.relay.teams.microsoft.com
+52-114-63-227.relay.teams.microsoft.com
+9f51c8a9-bc77-4109-881f-a73bbb919f57.rdbroker-g-eu-r1.wvd.microsoft.com
+Docs.microsoft.com
+a-euwe-cosmic.prod.templates.tac.teams.microsoft.com
+a000001.ms.a.microsoft.com:193.246.105.80
+a000001.ms.a.microsoft.com:193.246.105.9
+a126.ms.a.microsoft.com:23.66.3.76
+a126.ms.a.microsoft.com:23.66.3.88
+aad.cs.dds.microsoft.com:dgscontinuumonlyatm.trafficmanager.net
+aaedub001c3601.network.microsoft.com
+account.microsoft.com
+ace-trsi.serviceshub.microsoft.com
+activation.isv.drm.microsoft.com
+activex.microsoft.com
+adbroker-promotion-test.geneva.keyvault.microsoft.com
+adcenterapidownload-ppe.microsoft.com:64:ff9b::cf2e:77b5
+adinsight.ads-int.microsoft.com
+admin-mvaite3.microsoft.com
+admin.exchange.microsoft.com
+admin.microsoft.com
+adminportal.redmond.ext-ian-sanity.azs.selfhost.corp.microsoft.com
+advertiser-rep1.adcenter.microsoft.com:64:ff9b::4137:9d4e
+aep.microsoft.com
+aer.microsoft.com
+aether.microsoft.com
+afflink.microsoft.com
+aiotlabs.microsoft.com
+airlift.microsoft.com
+aistories.microsoft.com
+aiusecaseexplorer.microsoft.com
+aks-agentpool-28776322-2q.reddog.microsoft.com
+alerts.microsoft.com
+alertsrp.stage.detection.rome.microsoft.com
+ambausx-sad-prd-ila.securitycenter.microsoft.com
+analytics9.develop.api.speech.microsoft.com
+analyticspartner.microsoft.com
+api-canary.tms.microsoft.com
+api.access.tools-eastus.cp.microsoft.com:64:ff9b::34e1:e6de
+api.bingads.microsoft.com
+api.microsoft.com
+api.ucm.ads.microsoft.com
+appsource.microsoft.com
+aps.mail.microsoft.com
+apt-oloop-012.redmond.corp.microsoft.com
+auditboard-ppe1.microsoft.com
+auth-int.mtntpr.teams.microsoft.com
+auto-ausebb-pbi-kv-httpszoneb1.zb1.w.api.fabric.microsoft.com
+auto-ausse-pbi-kv-httpszoneb3.zb3.w.api.fabric.microsoft.com
+auto-ausseab-pbi-kv-httpszone52.z52.w.api.fabric.microsoft.com
+auto-aussebp-pbi-kv-httpszone73.z73.w.api.fabric.microsoft.com
+auto-auteasap-pbi-kv-httpszonef9.zf9.w.api.fabric.microsoft.com
+auto-bcdrfma2-pbi-kv-httpszone00.z00.w.api.fabric-df.microsoft.com
+auto-bcdrfma2-pbi-kv-httpszone80.z80.w.api.fabric-df.microsoft.com
+auto-belcenab-pbi-kv-httpszone29.z29.w.api.fabric.microsoft.com
+auto-belcenab-pbi-kv-httpszone61.z61.w.api.fabric.microsoft.com
+auto-belcenab-pbi-kv-httpszonee8.ze8.w.api.fabric.microsoft.com
+auto-brasbp-pbi-kv-httpszone2e.z2e.w.api.fabric.microsoft.com
+auto-brasbp-pbi-kv-httpszone61.z61.w.api.fabric.microsoft.com
+auto-brascp-pbi-kv-httpszone64.z64.w.api.fabric.microsoft.com
+auto-brasoudp-pbi-kv-httpszone82.z82.w.api.fabric.microsoft.com
+auto-brs-pbi-kv-httpszone54.z54.w.api.fabric.microsoft.com
+auto-brs-pbi-kv-httpszone92.z92.w.api.fabric.microsoft.com
+auto-brs-pbi-kv-httpszonee7.ze7.w.api.fabric.microsoft.com
+auto-cancen-pbi-kv-httpszone89.z89.w.api.fabric.microsoft.com
+auto-cancenbp-pbi-kv-httpszone30.z30.w.api.fabric.microsoft.com
+auto-cancenbp-pbi-kv-httpszone62.z62.w.api.fabric.microsoft.com
+auto-cancenbp-pbi-kv-httpszoned7.zd7.w.api.fabric.microsoft.com
+auto-cancenbp-pbi-kv-httpszonefe.zfe.w.api.fabric.microsoft.com
+auto-chicenab-pbi-kv-httpszone59.z59.w.api.fabric.microsoft.com
+auto-chicenap-pbi-kv-httpszonebf.zbf.w.api.fabric.microsoft.com
+auto-cusap-pbi-kv-httpszone7c.z7c.w.api.fabric.microsoft.com
+auto-cusap-pbi-kv-httpszonec5.zc5.w.api.fabric.microsoft.com
+auto-cusbb-pbi-kv-httpszone18.z18.w.api.fabric.microsoft.com
+auto-cusbb-pbi-kv-httpszone45.z45.w.api.fabric.microsoft.com
+auto-cusbb-pbi-kv-httpszone4c.z4c.w.api.fabric.microsoft.com
+auto-cusbb-pbi-kv-httpszone55.z55.w.api.fabric.microsoft.com
+auto-cusbb-pbi-kv-httpszonead.zad.w.api.fabric.microsoft.com
+auto-daily-pbi-kv-httpszonee9.ze9.w.dailyapi.fabric.microsoft.com
+auto-dxt-pbi-kv-httpszonea9.za9.w.dxtapi.fabric.microsoft.com
+auto-dxtuswbu-pbi-kv-httpszone40.z40.w.dxtapi.fabric.microsoft.com
+auto-dxtuswbu-pbi-kv-httpszone7d.z7d.w.dxtapi.fabric.microsoft.com
+auto-dxtuswbu-pbi-kv-httpszone8b.z8b.w.dxtapi.fabric.microsoft.com
+auto-ea-pbi-kv-httpszone2c.z2c.w.api.fabric.microsoft.com
+auto-eabb-pbi-kv-httpszone46.z46.w.api.fabric.microsoft.com
+auto-eabb-pbi-kv-httpszoneda.zda.w.api.fabric.microsoft.com
+auto-eabb-pbi-kv-httpszonef9.zf9.w.api.fabric.microsoft.com
+auto-eadb-pbi-kv-httpszone2d.z2d.w.api.fabric.microsoft.com
+auto-eadb-pbi-kv-httpszonecd.zcd.w.api.fabric.microsoft.com
+auto-eurnorb-pbi-kv-httpszone44.z44.w.api.fabric.microsoft.com
+auto-eurnorb-pbi-kv-httpszoneef.zef.w.api.fabric.microsoft.com
+auto-eurwesb-pbi-kv-httpszone34.z34.w.api.fabric.microsoft.com
+auto-eus2ab-pbi-kv-httpszone45.z45.w.api.fabric.microsoft.com
+auto-eus2ab-pbi-kv-httpszonec2.zc2.w.api.fabric.microsoft.com
+auto-eus2cp-pbi-kv-httpszonea8.za8.w.api.fabric.microsoft.com
+auto-eus2cp-pbi-kv-httpszonecd.zcd.w.api.fabric.microsoft.com
+auto-eus2ep-pbi-kv-httpszone15.z15.w.api.fabric.microsoft.com
+auto-eus2ep-pbi-kv-httpszone59.z59.w.api.fabric.microsoft.com
+auto-fransouab-pbi-kv-httpszoneb4.zb4.w.api.fabric.microsoft.com
+auto-frasoubb-pbi-kv-httpszone07.z07.w.api.fabric.microsoft.com
+auto-frasoubb-pbi-kv-httpszone28.z28.w.api.fabric.microsoft.com
+auto-frasoubb-pbi-kv-httpszone98.z98.w.api.fabric.microsoft.com
+auto-gernab-pbi-kv-httpszoneab.zab.w.api.fabric.microsoft.com
+auto-gernab-pbi-kv-httpszoned9.zd9.w.api.fabric.microsoft.com
+auto-gerwcap-pbi-kv-httpszone4f.z4f.w.api.fabric.microsoft.com
+auto-idocenap-pbi-kv-httpszoneeb.zeb.w.api.fabric.microsoft.com
+auto-indcenap-pbi-kv-httpszone09.z09.w.api.fabric.microsoft.com
+auto-indsouabkp-pbi-kv-httpszonef8.zf8.w.api.fabric.microsoft.com
+auto-indsoubb-pbi-kv-httpszoneb4.zb4.w.api.fabric.microsoft.com
+auto-isrcenab-pbi-kv-httpszone92.z92.w.api.fabric.microsoft.com
+auto-isrcenap-pbi-kv-httpszone30.z30.w.api.fabric.microsoft.com
+auto-isrcenap-pbi-kv-httpszoned0.zd0.w.api.fabric.microsoft.com
+auto-isrcenap-pbi-kv-httpszoneda.zda.w.api.fabric.microsoft.com
+auto-itanorab-pbi-kv-httpszonee2.ze2.w.api.fabric.microsoft.com
+auto-itanorab-pbi-kv-httpszonef7.zf7.w.api.fabric.microsoft.com
+auto-itanorap-pbi-kv-httpszone0e.z0e.w.api.fabric.microsoft.com
+auto-itanorap-pbi-kv-httpszone75.z75.w.api.fabric.microsoft.com
+auto-japeas-pbi-kv-httpszonecd.zcd.w.api.fabric.microsoft.com
+auto-japwbb-pbi-kv-httpszone02.z02.w.api.fabric.microsoft.com
+auto-japwbb-pbi-kv-httpszonef0.zf0.w.api.fabric.microsoft.com
+auto-japwesbu-pbi-kv-httpszoned7.zd7.w.api.fabric.microsoft.com
+auto-koreaab-pbi-kv-httpszone3f.z3f.w.api.fabric.microsoft.com
+auto-koreaap-pbi-kv-httpszonee1.ze1.w.api.fabric.microsoft.com
+auto-mexcenab-pbi-kv-httpszone70.z70.w.api.fabric.microsoft.com
+auto-mexcenap-pbi-kv-httpszone05.z05.w.api.fabric.microsoft.com
+auto-mexcenap-pbi-kv-httpszone7b.z7b.w.api.fabric.microsoft.com
+auto-msitwus-pbi-kv-httpszonedb.zdb.w.msitapi.fabric.microsoft.com
+auto-ncus-pbi-kv-httpszone4b.z4b.w.api.fabric.microsoft.com
+auto-ncus-pbi-kv-httpszonef8.zf8.w.api.fabric.microsoft.com
+auto-ncusb-pbi-kv-httpszone58.z58.w.api.fabric.microsoft.com
+auto-ncusb-pbi-kv-httpszonea7.za7.w.api.fabric.microsoft.com
+auto-ncusb-pbi-kv-httpszoneb6.zb6.w.api.fabric.microsoft.com
+auto-ncusbkp-pbi-kv-httpszonecd.zcd.w.api.fabric.microsoft.com
+auto-ncuscp-pbi-kv-httpszone84.z84.w.api.fabric.microsoft.com
+auto-ncusd-pbi-kv-httpszone1e.z1e.w.api.fabric.microsoft.com
+auto-ncusd-pbi-kv-httpszone2b.z2b.w.api.fabric.microsoft.com
+auto-ncusep-pbi-kv-httpszone8a.z8a.w.api.fabric.microsoft.com
+auto-ncusfp-pbi-kv-httpszone8a.z8a.w.api.fabric.microsoft.com
+auto-ncusgp-pbi-kv-httpszone11.z11.w.api.fabric.microsoft.com
+auto-ncusgp-pbi-kv-httpszone3b.z3b.w.api.fabric.microsoft.com
+auto-ncusgp-pbi-kv-httpszone50.z50.w.api.fabric.microsoft.com
+auto-ne2-pbi-kv-httpszone33.z33.w.api.fabric.microsoft.com
+auto-ne2-pbi-kv-httpszone81.z81.w.api.fabric.microsoft.com
+auto-neubb-pbi-kv-httpszonee7.ze7.w.api.fabric.microsoft.com
+auto-neudp-pbi-kv-httpszonedc.zdc.w.api.fabric.microsoft.com
+auto-neuep-pbi-kv-httpszonecd.zcd.w.api.fabric.microsoft.com
+auto-neufb-pbi-kv-httpszone24.z24.w.api.fabric.microsoft.com
+auto-neugp-pbi-kv-httpszoneb4.zb4.w.api.fabric.microsoft.com
+auto-neugp-pbi-kv-httpszonefe.zfe.w.api.fabric.microsoft.com
+auto-neuhp-pbi-kv-httpszone42.z42.w.api.fabric.microsoft.com
+auto-neuhp-pbi-kv-httpszone48.z48.w.api.fabric.microsoft.com
+auto-neuhp-pbi-kv-httpszone85.z85.w.api.fabric.microsoft.com
+auto-neuhp-pbi-kv-httpszoned2.zd2.w.api.fabric.microsoft.com
+auto-neuip-pbi-kv-httpszone0e.z0e.w.api.fabric.microsoft.com
+auto-neuip-pbi-kv-httpszone21.z21.w.api.fabric.microsoft.com
+auto-neuip-pbi-kv-httpszone42.z42.w.api.fabric.microsoft.com
+auto-neukp-pbi-kv-httpszone0a.z0a.w.api.fabric.microsoft.com
+auto-neukp-pbi-kv-httpszoneb3.zb3.w.api.fabric.microsoft.com
+auto-neump-pbi-kv-httpszone17.z17.w.api.fabric.microsoft.com
+auto-neunp-pbi-kv-httpszone8b.z8b.w.api.fabric.microsoft.com
+auto-neuop-pbi-kv-httpszone12.z12.w.api.fabric.microsoft.com
+auto-neuop-pbi-kv-httpszonefd.zfd.w.api.fabric.microsoft.com
+auto-neupp-pbi-kv-httpszoned6.zd6.w.api.fabric.microsoft.com
+auto-neuqp-pbi-kv-httpszone2d.z2d.w.api.fabric.microsoft.com
+auto-neuqp-pbi-kv-httpszonec0.zc0.w.api.fabric.microsoft.com
+auto-norcenuslp-pbi-kv-httpszone59.z59.w.api.fabric.microsoft.com
+auto-noreast-pbi-kv-httpszone84.z84.w.api.fabric.microsoft.com
+auto-noreurgb-pbi-kv-httpszone2f.z2f.w.api.fabric.microsoft.com
+auto-noreurgb-pbi-kv-httpszone5e.z5e.w.api.fabric.microsoft.com
+auto-noreurgb-pbi-kv-httpszone81.z81.w.api.fabric.microsoft.com
+auto-paas1scus-pbi-kv-httpszone90.z90.w.api.fabric.microsoft.com
+auto-paasbueus2-pbi-kv-httpszone27.z27.w.api.fabric.microsoft.com
+auto-paasbueus2-pbi-kv-httpszoneb1.zb1.w.api.fabric.microsoft.com
+auto-paasbueus2-pbi-kv-httpszonecc.zcc.w.api.fabric.microsoft.com
+auto-polcenab-pbi-kv-httpszone8f.z8f.w.api.fabric.microsoft.com
+auto-polcenab-pbi-kv-httpszonec3.zc3.w.api.fabric.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszone57.z57.w.api.fabric-df.microsoft.com
+auto-ppeedogwcus-pbi-kv-httpszone85.z85.w.api.fabric-df.microsoft.com
+auto-qatrcenab-pbi-kv-httpszone61.z61.w.api.fabric.microsoft.com
+auto-qatrcenab-pbi-kv-httpszoned9.zd9.w.api.fabric.microsoft.com
+auto-qatrcenap-pbi-kv-httpszonec6.zc6.w.api.fabric.microsoft.com
+auto-safnap-pbi-kv-httpszonea5.za5.w.api.fabric.microsoft.com
+auto-safwab-pbi-kv-httpszone5c.z5c.w.api.fabric.microsoft.com
+auto-safwab-pbi-kv-httpszoned0.zd0.w.api.fabric.microsoft.com
+auto-scenbbzd-pbi-kv-httpszone9a.z9a.w.api.fabric.microsoft.com
+auto-scus-pbi-kv-httpszoneeb.zeb.w.api.fabric.microsoft.com
+auto-scus-pbi-kv-httpszoneef.zef.w.api.fabric.microsoft.com
+auto-scusab-pbi-kv-httpszone92.z92.w.api.fabric.microsoft.com
+auto-scusab-pbi-kv-httpszonec6.zc6.w.api.fabric.microsoft.com
+auto-scusab-pbi-kv-httpszonef8.zf8.w.api.fabric.microsoft.com
+auto-scusbu-pbi-kv-httpszonecb.zcb.w.api.fabric.microsoft.com
+auto-scusbu-pbi-kv-httpszonecc.zcc.w.api.fabric.microsoft.com
+auto-scuscb-pbi-kv-httpszone49.z49.w.api.fabric.microsoft.com
+auto-scuscb-pbi-kv-httpszonef5.zf5.w.api.fabric.microsoft.com
+auto-scuscp-pbi-kv-httpszone18.z18.w.api.fabric.microsoft.com
+auto-scuseb-pbi-kv-httpszone17.z17.w.api.fabric.microsoft.com
+auto-scusfb-pbi-kv-httpszonea5.za5.w.api.fabric.microsoft.com
+auto-scusgb-pbi-kv-httpszoneac.zac.w.api.fabric.microsoft.com
+auto-scusgb-pbi-kv-httpszonede.zde.w.api.fabric.microsoft.com
+auto-scusgb-pbi-kv-httpszonef5.zf5.w.api.fabric.microsoft.com
+auto-scushb-pbi-kv-httpszone47.z47.w.api.fabric.microsoft.com
+auto-scushb-pbi-kv-httpszone86.z86.w.api.fabric.microsoft.com
+auto-scushb-pbi-kv-httpszonedd.zdd.w.api.fabric.microsoft.com
+auto-sea-pbi-kv-httpszone6f.z6f.w.api.fabric.microsoft.com
+auto-sea-pbi-kv-httpszoneb8.zb8.w.api.fabric.microsoft.com
+auto-seaab-pbi-kv-httpszone2f.z2f.w.api.fabric.microsoft.com
+auto-seabb-pbi-kv-httpszone6d.z6d.w.api.fabric.microsoft.com
+auto-seabb-pbi-kv-httpszone7f.z7f.w.api.fabric.microsoft.com
+auto-seabb-pbi-kv-httpszonee9.ze9.w.api.fabric.microsoft.com
+auto-seacp-pbi-kv-httpszone2e.z2e.w.api.fabric.microsoft.com
+auto-seacp-pbi-kv-httpszone7e.z7e.w.api.fabric.microsoft.com
+auto-seadp-pbi-kv-httpszonede.zde.w.api.fabric.microsoft.com
+auto-sngprab-pbi-kv-httpszone4d.z4d.w.api.fabric.microsoft.com
+auto-sngprab-pbi-kv-httpszonea5.za5.w.api.fabric.microsoft.com
+auto-sngprap-pbi-kv-httpszone4c.z4c.w.api.fabric.microsoft.com
+auto-spacenab-pbi-kv-httpszone20.z20.w.api.fabric.microsoft.com
+auto-spacenab-pbi-kv-httpszone46.z46.w.api.fabric.microsoft.com
+auto-spacenap-pbi-kv-httpszone20.z20.w.api.fabric.microsoft.com
+auto-spacenap-pbi-kv-httpszone2b.z2b.w.api.fabric.microsoft.com
+auto-spacenap-pbi-kv-httpszone88.z88.w.api.fabric.microsoft.com
+auto-spacenap-pbi-kv-httpszone8d.z8d.w.api.fabric.microsoft.com
+auto-swedncenp-pbi-kv-httpszone5f.z5f.w.api.fabric.microsoft.com
+auto-swedncenp-pbi-kv-httpszone94.z94.w.api.fabric.microsoft.com
+auto-swizwb-pbi-kv-httpszone2c.z2c.w.api.fabric.microsoft.com
+auto-swizwb-pbi-kv-httpszonea5.za5.w.api.fabric.microsoft.com
+auto-swizwb-pbi-kv-httpszonee3.ze3.w.api.fabric.microsoft.com
+auto-tainorab-pbi-kv-httpszoneab.zab.w.api.fabric.microsoft.com
+auto-uaecab-pbi-kv-httpszoneb3.zb3.w.api.fabric.microsoft.com
+auto-uksbp-pbi-kv-httpszonea8.za8.w.api.fabric.microsoft.com
+auto-ukscp-pbi-kv-httpszonee0.ze0.w.api.fabric.microsoft.com
+auto-uksdp-pbi-kv-httpszone59.z59.w.api.fabric.microsoft.com
+auto-uksdp-pbi-kv-httpszonec8.zc8.w.api.fabric.microsoft.com
+auto-uksou-pbi-kv-httpszone12.z12.w.api.fabric.microsoft.com
+auto-ukwcb-pbi-kv-httpszonea3.za3.w.api.fabric.microsoft.com
+auto-ukwesbu-pbi-kv-httpszoneaa.zaa.w.api.fabric.microsoft.com
+auto-ukwesbu-pbi-kv-httpszoned0.zd0.w.api.fabric.microsoft.com
+auto-useap-pbi-kv-httpszonee8.ze8.w.api.fabric.microsoft.com
+auto-usebb-pbi-kv-httpszone37.z37.w.api.fabric.microsoft.com
+auto-usebb-pbi-kv-httpszone6f.z6f.w.api.fabric.microsoft.com
+auto-usebb-pbi-kv-httpszoneec.zec.w.api.fabric.microsoft.com
+auto-usebp-pbi-kv-httpszone0b.z0b.w.api.fabric.microsoft.com
+auto-usedb-pbi-kv-httpszonea4.za4.w.api.fabric.microsoft.com
+auto-useeb-pbi-kv-httpszone0e.z0e.w.api.fabric.microsoft.com
+auto-uswab-pbi-kv-httpszone27.z27.w.api.fabric.microsoft.com
+auto-uswbb-pbi-kv-httpszone6d.z6d.w.api.fabric.microsoft.com
+auto-uswbb-pbi-kv-httpszoneab.zab.w.api.fabric.microsoft.com
+auto-we-pbi-kv-httpszone06.z06.w.api.fabric.microsoft.com
+auto-we-pbi-kv-httpszone4c.z4c.w.api.fabric.microsoft.com
+auto-we2-pbi-kv-httpszone54.z54.w.api.fabric.microsoft.com
+auto-webp-pbi-kv-httpszonece.zce.w.api.fabric.microsoft.com
+auto-weseurgp-pbi-kv-httpszone4f.z4f.w.api.fabric.microsoft.com
+auto-westus3ap-pbi-kv-httpszone8e.z8e.w.api.fabric.microsoft.com
+auto-westus3ap-pbi-kv-httpszone96.z96.w.api.fabric.microsoft.com
+auto-weucb-pbi-kv-httpszonecc.zcc.w.api.fabric.microsoft.com
+auto-weudb-pbi-kv-httpszone2d.z2d.w.api.fabric.microsoft.com
+auto-weudb-pbi-kv-httpszoneeb.zeb.w.api.fabric.microsoft.com
+auto-weudp-pbi-kv-httpszone38.z38.w.api.fabric.microsoft.com
+auto-weudp-pbi-kv-httpszone68.z68.w.api.fabric.microsoft.com
+auto-weueb-pbi-kv-httpszone38.z38.w.api.fabric.microsoft.com
+auto-weueb-pbi-kv-httpszone64.z64.w.api.fabric.microsoft.com
+auto-weueb-pbi-kv-httpszonedb.zdb.w.api.fabric.microsoft.com
+auto-weuep-pbi-kv-httpszonebd.zbd.w.api.fabric.microsoft.com
+auto-weuep-pbi-kv-httpszonedd.zdd.w.api.fabric.microsoft.com
+auto-weuep-pbi-kv-httpszonefc.zfc.w.api.fabric.microsoft.com
+auto-weufb-pbi-kv-httpszone08.z08.w.api.fabric.microsoft.com
+auto-weufb-pbi-kv-httpszone67.z67.w.api.fabric.microsoft.com
+auto-weufp-pbi-kv-httpszonef5.zf5.w.api.fabric.microsoft.com
+auto-weugb-pbi-kv-httpszoneaf.zaf.w.api.fabric.microsoft.com
+auto-weuib-pbi-kv-httpszonec2.zc2.w.api.fabric.microsoft.com
+auto-weujb-pbi-kv-httpszone0f.z0f.w.api.fabric.microsoft.com
+auto-weukb-pbi-kv-httpszone56.z56.w.api.fabric.microsoft.com
+auto-weukb-pbi-kv-httpszonee8.ze8.w.api.fabric.microsoft.com
+auto-weulb-pbi-kv-httpszone80.z80.w.api.fabric.microsoft.com
+auto-weumb-pbi-kv-httpszone9e.z9e.w.api.fabric.microsoft.com
+auto-weunb-pbi-kv-httpszone0d.z0d.w.api.fabric.microsoft.com
+auto-weuob-pbi-kv-httpszone7a.z7a.w.api.fabric.microsoft.com
+auto-weuob-pbi-kv-httpszonea7.za7.w.api.fabric.microsoft.com
+auto-weupb-pbi-kv-httpszonea8.za8.w.api.fabric.microsoft.com
+auto-weuqb-pbi-kv-httpszone0a.z0a.w.api.fabric.microsoft.com
+auto-wus-pbi-kv-httpszone4f.z4f.w.api.fabric.microsoft.com
+auto-wusbp-pbi-kv-httpszone33.z33.w.api.fabric.microsoft.com
+auto-wuscp-pbi-kv-httpszonee0.ze0.w.api.fabric.microsoft.com
+auto-wusdp-pbi-kv-httpszone18.z18.w.api.fabric.microsoft.com
+auto-wusdp-pbi-kv-httpszonecf.zcf.w.api.fabric.microsoft.com
+auto-wusep-pbi-kv-httpszone7e.z7e.w.api.fabric.microsoft.com
+auto-wusep-pbi-kv-httpszoned3.zd3.w.api.fabric.microsoft.com
+auto-zeanorab-pbi-kv-httpszonebd.zbd.w.api.fabric.microsoft.com
+auto-zeanorap-pbi-kv-httpszonec2.zc2.w.api.fabric.microsoft.com
+auto-zeanorap-pbi-kv-httpszonece.zce.w.api.fabric.microsoft.com
+avd.microsoft.com
+az2sd00002952.sys-wingroup.ntdev.corp.microsoft.com
+az2sd00003059.redmond.corp.microsoft.com
+az2sd00003518.redmond.corp.microsoft.com
+az2sd00003556q.sys-wingroup.corp.microsoft.com
+az2sd00004332q.sys-wingroup.corp.microsoft.com
+azconductortest.microsoft.com
+aze360wus21a.redmond.corp.microsoft.com
+azfitnepduatsq.europe.corp.microsoft.com
+azmdmprd01.redmond.corp.microsoft.com
+azure.microsoft.com
+azurecmsdevstoragemetrics.metrics.cms.microsoft.com
+azurecstgenevaprodq.microsoft.com
+azuremarketplace.microsoft.com
+azwcusehnmspas16.corp.microsoft.com
+azwus2nmsdiu001.redmond.corp.microsoft.com
+b36-wlan-aaac.corp.microsoft.com
+backend.dpp-int.dcat.dsp.mp.microsoft.com
+backend.extorigin-dev.dcat.dsp.mp.microsoft.com
+backend.sws.update.microsoft.com
+backoffice.microsoft.com
+balancemanagementfd.cp.microsoft.com
+bedrockformscorpemea.corp.microsoft.com
+beta.leportal.microsoft.com
+bgit-sdnlg.redmond.corp.microsoft.com
+biz4afrika.microsoft.com
+blob.cccrca.azurestack.corp.microsoft.com
+blob.redmond.ext-n25r1607.azs.selfhost.corp.microsoft.com
+blob.redmond.ext-s11r1901.azs.selfhost.corp.microsoft.com
+blogs.microsoft.com
+bn2.cloudcollection.microsoft.com
+brazil.prod.powerquery.microsoft.com
+browserdefaults.microsoft.com
+business.microsoft.com
+businesscentral.microsoft.com
+businessmobilitycenter.microsoft.com
+businessplatform.microsoft.com
+c-uswe2.plat.teams.microsoft.com
+c.sam.public-teams.ctrl.ml.teams.microsoft.com
+canadacentral.api.securitycopilot.microsoft.com
+careers.microsoft.com
+cashback.microsoft.com
+cauhunyena72511.network.microsoft.com
+cayman.xcc.microsoft.com
+ccmt.next.adcenter-pace.microsoft.com:64:ff9b::4136:a50c
+cdn-vsa-trs-prod.services.microsoft.com
+cdn.techcommunity.microsoft.com
+cek.exploremsuat.microsoft.com
+cem-prod-co3.services.microsoft.com:64:ff9b::4137:215
+ceoconnections.event.microsoft.com
+certauth.corp.sts.microsoft.com
+certauth.msft.sts.microsoft.com
+channelincentivespx3.microsoft.com
+chatentity.channelservices.microsoft.com
+choice.microsoft.com
+cilhrzalaan1m15.network.microsoft.com
+cjs-prdrds01.mfg.selfhost.corp.microsoft.com
+cla.microsoft.com
+cla.opensource.microsoft.com
+claims-int.geneva.keyvault.pi.microsoft.com
+client.wvd.microsoft.com
+cloud-immersion.microsoft.com
+cloudmail.microsoft.com
+cloudsociety.microsoft.com
+clpentitlews-co1ext.partners.extranet.microsoft.com
+cmat-int.css.microsoft.com:64:ff9b::4137:cbba
+cms-mr-prod-waf-southeastap.cms.microsoft.com
+cmsbn1test04.microsoft.com:64:ff9b::86aa:1638
+co2vlsctest53.microsoft.com:64:ff9b::86aa:b8ac
+cobra.me.microsoft.com
+com.geneva.keyvault.taxservice.cp.microsoft.com
+commcopilotc.corp.microsoft.com
+commerceaccount.dm2.cp.microsoft.com:64:ff9b::682c:ca0d
+commercialappcertification.microsoft.com
+communities.microsoft.com
+communities2.microsoft.com
+community.microsoft.com
+complianceui-uso.lens.ppe.microsoft.com
+connect.microsoft.com
+connectevent.microsoft.com
+contextc.stg-answers.microsoft.com
+copilot.microsoft.com
+corp.sts.microsoft.com
+cosellpublishstorage.cdn.microsoft.com
+cpcsaamssa1prodpreu01q.infra.windows365.microsoft.com
+cpwnl.msncp.cb3.glbdns.microsoft.com
+crawlmsdn.microsoft.com
+critsitazure.partners.extranet.microsoft.com
+csgsinwoocnm03y.network.microsoft.com
+cssremote.microsoft.com
+cuschy644an5dn.network.microsoft.com
+cusqui001f5ba2.network.microsoft.com
+customers.microsoft.com
+dadeploymonitorprodcertw.manage.microsoft.com
+datagridppe.microsoft.com
+dataplatform.microsoft.com
+ddwebppe1y.redmond.corp.microsoft.com
+design.microsoft.com
+dev.microsoft.com
+dev.vef.data.microsoft.com
+develop.microsoft.com
+developer.microsoft.com
+devicemanagement.preu01.prod.cmdagent.infra.windows365.microsoft.com
+devportal.microsoft.com
+disc501-prod.do.dsp.mp.microsoft.com
+dm-dk8s-wus3-1003.manage-selfhost.microsoft.com:mps-intune-prd-wus3-1003.westus3.cloudapp.azure.com
+dmhttp-auea.spots-ppe.microsoft.com
+dnx.phx.sts.microsoft.com:64:ff9b::cf44:933c
+docs.microsoft.com
+domains.microsoft.com
+dotnet.microsoft.com
+download.microsoft.com
+downloadw.surfacedev.microsoft.com
+dpp-stasis.speech.microsoft.com
+drclplsws.partners.extranet.microsoft.com:64:ff9b::4137:1cbf
+dynamics.microsoft.com
+eastasia.tts-frontend.speech.microsoft.com:istio-ingress-speech2-ame10-ae.eastasia.cloudapp.azure.com
+efunsdproxy.corp.microsoft.com
+email2.microsoft.com:64:ff9b::8893:811b
+emcwsu2.partners.extranet.microsoft.com
+empower-isv.one.microsoft.com:64:ff9b::836b:7389
+empresas.microsoft.com
+encrypt.dmc.partner.microsoft.com
+engagehub.microsoft.com
+engineeringcommunity.microsoft.com
+enterprise.microsoft.com
+entrepreneur.microsoft.com
+envisionk.event.microsoft.com
+es-gitc-cy-01.corp.microsoft.com
+eu.mamservice.manage.microsoft.com
+eu.prod.v1.office.microsoft.com
+eu02.manage.microsoft.com
+ew.samafr.public-teams.enc.ml.teams.microsoft.com
+example.microsoft.com
+explore-marketing.microsoft.com
+explore-security.microsoft.com
+explore-smb.microsoft.com
+expressions.microsoft.com
+ext-n25r2203.azs.selfhost.corp.microsoft.com
+ext-n31r1209o.azs.selfhost.corp.microsoft.com
+falconcomp-prod-weu-general1-au.glbdns2.microsoft.com
+feedback.microsoft.com:feedback-microsoft-com.ax-0001.ax-msedge.net
+fefu.msuc02.manage.microsoft.com
+filtering.exchange.microsoft.com
+findsvcuat.mappoint.microsoft.com
+francecentral.tts-frontend.speech.microsoft.com:istio-ingress-speech2-ame10-fc.francecentral.cloudapp.azure.com
+fs.dl.delivery.mp.microsoft.com
+ftp.microsoft.com
+fuse.microsoft.com
+futuredecoded.microsoft.com
+ga.microsoft.com
+garage.microsoft.com
+gateway.microsoft.com:64:ff9b::836b:108e
+gateway.microsoft.com:64:ff9b::836b:108f
+gigjam.microsoft.com
+gmevpn.glbdns2.microsoft.com
+go.microsoft.com
+grv.microsoft.com
+haloprivacy.microsoft.com
+handoff.lego.microsoft.com
+help.microsoft.com
+hg117v.dcat.dsp.mp.microsoft.com
+hk2-dspcdn.tlu.dl.delivery.mp.microsoft.com:64:ff9b::284d:e248
+home.ep.microsoft.com
+hosting.redmond.ext-n26r0504.azs.selfhost.corp.microsoft.com
+hosting.redmond.ext-s31r1301.azs.selfhost.corp.microsoft.com
+hup.microsoft.com
+hxd.research.microsoft.com
+i.manage-dogfood.microsoft.com
+ideas.fabric.microsoft.com
+identitypass-web1.microsoft.com
+ieak.microsoft.com
+imagine.microsoft.com
+inc0a.partnerapis.fp.wd.microsoft.com
+india.prod.powerquery.microsoft.com
+ingest-trd-1gnmc1vhh0xrmq1gr9.z5.kusto.fabric.microsoft.com
+ingest-trd-vmjpdswnv4rvjx0f8z.z8.dev.kusto.fabric.microsoft.com
+ingest-trd-y6b4kqc7gzgs1h21v9.z4.dev.kusto.fabric.microsoft.com
+innovationcontest.microsoft.com
+ins.internalkustoapi.pipe.prod.microsoft.com
+insidemsr.microsoft.com
+int-desktopanalytics-svc.manage.microsoft.com
+iotcentral.microsoft.com
+iotschool.microsoft.com
+itpro.microsoft.com
+iwsextern.partners.extranet.microsoft.com:64:ff9b::9d3a:1e1a
+kailani-sink.one.microsoft.com
+kailanitest47.one.microsoft.com
+kleinunternehmen.microsoft.com
+learn.microsoft.com
+learnanalytics.microsoft.com
+learning.microsoft.com
+licensecodeuat.ectest.one.microsoft.com
+licensing-tip.powerplatform.microsoft.com:afdfo-preprod-neptune.trafficmanager.net
+login.microsoft.com
+lptapiuat.redmond.corp.microsoft.com
+lslm12.meet.microsoft.com:64:ff9b::5ef5:7f18
+lumiaconversationsuk.microsoft.com
+lusred119an128.network.microsoft.com
+lusredrr1an15y.network.microsoft.com
+lync0d.lyncweb.microsoft.com:64:ff9b::836b:ff06
+m.storeemail1.microsoft.com
+m12.microsoft.com
+mac.microsoft.com
+mac2.microsoft.com
+madeira.microsoft.com
+mail.microsoft.com
+mail14-ch1on0099.outbound.messaging.microsoft.com
+mail14-db9on0034.outbound.messaging.microsoft.com
+mail14-tx2bn0150.outbound.messaging.microsoft.com
+maila.nimitchahal.myworkspace.microsoft.com
+mango.microsoft.com
+mbsupdates-u1.microsoft.com
+mcr.microsoft.com
+mcsp.microsoft.com
+messenger.microsoft.com
+metro.partners.extranet.microsoft.com
+mgbrea001an2u1.network.microsoft.com
+microsoftcopilotstudio.microsoft.com
+minecraft.microsoft.com
+minhydhy3an1cb.network.microsoft.com
+mkb.microsoft.com
+mobile.microsoft.com
+mock.agent.services.microsoft.com
+monitor.azure.com.reddog.microsoft.com
+monitoringdc2.como.cp.microsoft.com:64:ff9b::4137:ca51
+mpnbenefitscbdsppe.microsoft.com
+mrt.microsoft.com:64:ff9b::cf2e:c57a
+msc.microsoft.com:msc-web-a5crbkehf7ephbeh.b02.azurefd.net
+msconnect.microsoft.com:msconnect-abbhd7fcgrgnc5e8.z01.azurefd.net
+mscritsit.partners.extranet.microsoft.com
+msctec.microsoft.com
+msdn.microsoft.com
+msdnisv.microsoft.com
+msdnwiki.microsoft.com
+msft.sts.microsoft.com
+msftguestap.partners.extranet.microsoft.com
+msftguesteu.partners.extranet.microsoft.com
+msftguestus.partners.extranet.microsoft.com
+mspartnerbi.partners.extranet.microsoft.com:64:ff9b::4137:1d0b
+mspartnerira.microsoft.com
+mspress.microsoft.com
+mssolveweb.partners.extranet.microsoft.com
+msvacationuat.corp.microsoft.com
+mt.ppe.rdslm.microsoft.com
+mta18.email2.microsoft.com
+music.microsoft.com
+musred088an7bi.network.microsoft.com
+musredrr1an2xa.network.microsoft.com
+musredrwean2b3.network.microsoft.com
+mvtd.events.microsoft.com
+mw-ps01.svc.aksinternal.cloudbuild.microsoft.com
+mybuild.microsoft.com
+mydatahealth.microsoft.com
+mysignins.microsoft.com
+mystaff-ppe.microsoft.com
+n6ms.a.microsoft.com:23.1.234.121
+na02.discovery.dm.microsoft.com
+news.microsoft.com
+noam-p03.mockserver.telcomessaging.dev.communication.microsoft.com
+noam.tnm.teams.microsoft.com
+nonprofitcommunity.microsoft.com
+northcentralus.sr-frontend.speech.microsoft.com:sr-frontend-direct-speech3-a10-usnc.northcentralus.cloudapp.azure.com
+northeurope.tts-frontend.speech.microsoft.com:istio-ingress-speech2-ame10-neu.northeurope.cloudapp.azure.com
+nttest4depot.sys-ntgroup.ntdev.microsoft.com
+o1.sendgrid.microsoft.com:64:ff9b::a759:17d7
+o8.jobalerts.emails.careers.microsoft.com
+ocluat.partners.extranet.microsoft.com:64:ff9b::9d3a:f853
+ocpdsfavoritesppe.microsoft.com:msscfavorites02wapp-bberhuhnczhvhwhz.centralus-01.azurewebsites.net
+ocv.microsoft.com:150.171.109.116
+ocv.microsoft.com:64:ff9b::96ab:6d96
+oemcommunity.microsoft.com
+officecdnmac.microsoft.com:onecdn-officecdnmac-endpoint-adcsa5hgg6fwgvc4.b02.azurefd.net
+ondernemers.microsoft.com
+onedrivelti.microsoft.com:onelti-prod.trafficmanager.net
+onegdc.microsoft.com
+onestore-ppe.microsoft.com
+online.microsoft.com
+onlinelearning.microsoft.com
+open.microsoft.com
+openness.microsoft.com
+opensource.microsoft.com
+origin.appsourceprod.microsoft.com
+paintelodata.one.microsoft.com
+partner.sts.microsoft.com
+partnercommunity.microsoft.com
+partnerincentives.microsoft.com
+partners.sts.microsoft.com
+paymentcentral.microsoft.com:epcnvaportalprod-aaejecawcfdpbwes.b02.azurefd.net
+paymentfileexchangerelayservicek.cp.microsoft.com
+pep.microsoft.com
+phoenixcataloguat.microsoft.com
+pinpoint.microsoft.com
+pinunblock.microsoft.com
+planetarycomputer-status.microsoft.com
+pme.microsoft.com
+pmi.microsoft.com
+portal-legacy.gtoinvoicing.microsoft.com
+portal.microsoft.com
+powerapps.microsoft.com
+powerautomate.microsoft.com
+powerpages.microsoft.com
+powerplatform.microsoft.com
+powerusers-staging.microsoft.com
+powerusers.microsoft.com
+powervirtualagents.microsoft.com
+ppe.picard.microsoft.com
+ppe.sds.microsoft.com
+preprod.bizappsdemos-staging.microsoft.com
+print.print-dev.microsoft.com:print.print-dev.microsoft.com.bx-0004.bx-msedge.net
+privacy.microsoft.com
+prod.public.microsoft.com
+prod.support.services.microsoft.com
+ps2.sdf.api.iris.microsoft.com
+pub-ent-jpea-02-t.trouter.teams.microsoft.com:partition-cname-trouter.pub-ent-jpea-02.ic3-edf-trouter.japaneast-prod.cosmic.office.net
+publicidad.microsoft.com:64:ff9b::1446:f614
+publicidad.microsoft.com:64:ff9b::144c:c9ab
+publicidad.microsoft.com:64:ff9b::1470:fa85
+publicidad.microsoft.com:64:ff9b::14e7:eff6
+publicidad.microsoft.com:64:ff9b::14ec:2ca2
+purchasejournalindex-sn3p.cp.microsoft.com:64:ff9b::68d6:6854
+purview1.microsoft.com
+pylon.microsoft.com
+pymes.microsoft.com
+qci22701818.svc.aksinternal.cbci.microsoft.com
+qci23100447.svc.aksinternal.cbci.microsoft.com
+query.prod.cms.rt.microsoft.com
+queue.redmond.ext-s45r1102.azs.selfhost.corp.microsoft.com
+rahultest.update.microsoft.com
+rc.engagehub.microsoft.com
+rdbroker.wvd.microsoft.com:rdbroker-prod-geov2.trafficmanager.net
+rddiagnostics-g-synth-r1.wvdselfhost.microsoft.com
+rdgateway-c101-sin-r1.wvd.microsoft.com
+rdgateway-g-synth-r1.wvdselfhost.microsoft.com
+rdweb-r0.wvd.microsoft.com
+rdweb-r0.wvd.microsoft.com:rdweb-r0-prodv2.trafficmanager.net
+rdweb.wvd.microsoft.com
+real-stories.microsoft.com
+redliba.msft.scm.microsoft.com:64:ff9b::836b:5475
+redmond.ext-n25r2102.azs.selfhost.corp.microsoft.com
+redmondts.microsoft.com
+register.print-dev.microsoft.com:register.print-dev.microsoft.com.bx-0004.bx-msedge.net
+register.secure.microsoft.com
+reroute443.microsoft.com
+res138.mails2.microsoft.com
+researchforum.microsoft.com
+resourcemanager-gbl-prz1.scanx.esrp.microsoft.com
+revenueallocator.dm2p.cp.microsoft.com:64:ff9b::d56:66fe
+revenueallocatorjournal.bn4.cp.microsoft.com:64:ff9b::682c:c015
+revenueallocatortime.dm2p.cp.microsoft.com:64:ff9b::d59:8907
+roclicensing-perf2.partners.extranet.microsoft.com
+roclicensingsit2.partners.extranet.microsoft.com:64:ff9b::285a:684
+rp.dev.eaus.sentinel.microsoft.com
+rpl-tk2.ds.microsoft.com:64:ff9b::cf2e:fcba
+rss.microsoft.com
+s.microsoft.com
+sam.support.fabric.microsoft.com
+saopaulo.msftvpn.ras.microsoft.com:64:ff9b::bfea:6201
+sapprd07pc4.redmond.corp.microsoft.com
+sar.microsoft.com
+satori-publishing-v2g.microsoft.com
+sb214.sbweb.microsoft.com
+schemas.microsoft.com
+scm.dcataseameprodproxyas.selfhost.partners.extranet.microsoft.com
+scpsslclientstandard.redmond.corp.microsoft.com
+sdanalog.sourcedepot.corp.microsoft.com
+sds.microsoft.com
+sdsdmlpxliffq.sourcedepot.corp.microsoft.com
+secure.jp.kaw.cb3.glbdns2.microsoft.com
+secure.microsoft.com
+security.cmsint.corp.microsoft.com
+seller.beta.ads.microsoft.com
+sf.user.mst.ex.dev.us.daas.microsoft.com
+sfb.catalindobre.myworkspace.microsoft.com
+sfmgmtcert-backup.mu-prod-cus-s-n-ncus.microsoft.com
+sg2itau1ibmmp2.microsoft.com:64:ff9b::a7dc:fd81
+sg2lyncav.mssupport.microsoft.com:64:ff9b::a7dc:fe2c
+sg2lyncav.mssupport.microsoft.com:64:ff9b::a7dc:fe2f
+sharepoint.partners.extranet.microsoft.com
+shop.microsoft.com
+shpdevelopercreds.corp.microsoft.com
+signup.microsoft.com
+sigraphinfra.os.ppe.v1.office.microsoft.com
+skypeandteams.fasttrack.microsoft.com
+smartoverage-int.microsoft.com
+sms.prod.communication.microsoft.com
+snackbox.microsoft.com
+soyreports.microsoft.com
+sponsors.microsoft.com
+spoolbot.communications.core.microsoft.com
+spp700.int.sls.microsoft.com:64:ff9b::4134:66c9
+spur.microsoft.com
+ssl-usgtex.appmanagement-gcc.microsoft.com
+sslx05.partners.extranet.microsoft.com:64:ff9b::9d3a:f83d
+sspm.microsoft.com
+staging-afd.teamsprod.dataclassification.microsoft.com
+staging.microsoft.com
+staticview.microsoft.com
+stationq.microsoft.com
+store.microsoft.com
+storeoffersui-int-eastus.mp.dps.microsoft.com
+stream.microsoft.com
+sts.advertising.microsoft.com
+sts.messaging.microsoft.com
+studentpartners.microsoft.com
+successionplanning.microsoft.com
+successionplanninguat.microsoft.com
+support.microsoft.com
+szkolyprzyszlosci.microsoft.com
+tas.teams.microsoft.com:tas-teams-microsoft-com.s-0005.dual-s-msedge.net
+tasks-test.gcc.teams.microsoft.com
+tco.microsoft.com
+techacademy.microsoft.com
+techcommunity.microsoft.com
+telemetrysvc-bn3p.smartscreen.microsoft.com:64:ff9b::34e1:861b
+terminology.microsoft.com
+terraserver.microsoft.com
+test.canary.teams.microsoft.com
+test.cia.acumen.microsoft.com:64:ff9b::9d3a:c68f
+test.iap.microsoft.com
+test.ideas.fabric.microsoft.com
+test.playready.microsoft.com
+testconnectivity.microsoft.com
+threatintel.microsoft.com
+tide111.microsoft.com:64:ff9b::3f40:2b91
+tide17.microsoft.com:64:ff9b::cdf8:6652
+tip0.rpssl.flow.microsoft.com
+tk3emcxweb13.parttest.extranettest.microsoft.com
+transform.microsoft.com:64:ff9b::d5d:8d0a
+trd-6gcndc74kpz0y23twr.z5.dev.kusto.fabric.microsoft.com
+trd-9wm77p1xk9nhpmv327.z2.dev.kusto.fabric.microsoft.com
+trd-dn8k34ws9n6yby4036.z3.dev.kusto.fabric.microsoft.com
+trd-k4tpxdz2c0dhe6kkm1.z2.dev.kusto.fabric.microsoft.com
+trd-s0qy4c322ycd9ruqt1.z4.dev.kusto.fabric.microsoft.com
+trials.transform.microsoft.com
+tusredrwer7201.network.microsoft.com
+tycluster01.test.bagparis.microsoft.com
+ui.ads.microsoft.com
+upgradecenter.microsoft.com
+urt.ep.microsoft.com
+us.prod.powerquery.microsoft.com
+us2.prod.powerquery.microsoft.com
+user.sonar.ri.ppe.us.daas.microsoft.com
+user.wdv.ds3.prod.us.daas.microsoft.com
+userrequests-euk.securitycenter.microsoft.com
+usgovcentral-passive.glbdns2.microsoft.com
+usjs.partners.extranet.microsoft.com:64:ff9b::836b:667c
+usmils.partners.extranet.microsoft.com
+ussc.services-dm1.premier.microsoft.com
+ux.microsoft.com
+ux.uat.microsoft.com
+vault.redmond.ext-s46r1602.azs.selfhost.corp.microsoft.com
+vh005.beta.msllab.microsoft.com:64:ff9b::4137:b9d
+vh005.pbt.microsoft.com:64:ff9b::cf2e:12c9
+vh015.pbt.microsoft.com:64:ff9b::4137:a8d
+visio.microsoft.com
+visualstudio.microsoft.com
+vkbexternal.partners.extranet.microsoft.com
+vlscu2intsvc.partners.extranet.microsoft.com:64:ff9b::9d3a:2317
+vstfsharepointext.partners.extranet.microsoft.com
+vtc.microsoft.com:64:ff9b::836b:2246
+vvruat3.partners.extranet.microsoft.com:64:ff9b::a7dc:468a
+w8db1.daccess.microsoft.com
+webmail.microsoft.com
+wgapss.partners.extranet.microsoft.com
+wildcard.auth.client.globalsecureaccess.microsoft.com
+wildcard.z09.w.dailyapi.fabric.microsoft.com
+workflowservice.dps.mp.microsoft.com
+wus2s1c-displaycatalog.frontdoor.bigcatalog.commerce.microsoft.com:64:ff9b::489a:24e2
+wus3fd-staging-dcatbackend-int.staging.bigcatalog-int.commerce.microsoft.com:134.33.7.97
+wus3fd-stagingretrieval-dcatbackend-int.staging.bigcatalog-int.commerce.microsoft.com:134.33.7.97
+wwwbeta.microsoft.com
+wwwbn1test65.microsoft.com
+wwwco2test62.microsoft.com:64:ff9b::86aa:b908
+wwwqa.microsoft.com
+xlens-data-proxy.microsoft.com
+yourchoice.microsoft.com
+z04.daily-onelake.fabric.microsoft.com
+z05.userdatafunctions.fabric-df.microsoft.com
+z06.dxt-blob.fabric.microsoft.com
+z20.dailyuserdatafunctions.fabric.microsoft.com
+z29.dfs.fabric.microsoft.com
+z4a.w.api.fabric.microsoft.com
+z4f.msit-blob.fabric.microsoft.com
+z4f.msitgraphql.fabric.microsoft.com
+z55.dxt-datawarehouse.fabric.microsoft.com
+z8d.msit-table.fabric.microsoft.com
+z9a.msit-blob.fabric.microsoft.com
+za3.dailyuserdatafunctions.fabric.microsoft.com
+za6.msit-c.fabric.microsoft.com
+zac.w.msitapi.fabric.microsoft.com
+zb0.msitgraphql.fabric.microsoft.com
+zd8.msit-sql.cosmos.fabric.microsoft.com
+zee.dxt-onelake.fabric.microsoft.com
+zf8.dailyuserdatafunctions.fabric.microsoft.com
+
+[*] Performing SecurityScorecard scan...
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+An exception has occurred in SecurityScorecard scanning: 
+[!] Missing API key for SecurityScorecard. 
+
+[*] Performing BuiltWith scan...
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+
+[!] Missing API key for BuiltWith. 
