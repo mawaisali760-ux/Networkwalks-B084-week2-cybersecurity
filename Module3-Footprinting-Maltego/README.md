@@ -1,6 +1,6 @@
 # Module 3 – Footprinting with Maltego
 
-**Internship:** [Networkwalks]
+**Internship:** [Networkwalks-cybersecurity]
 **Intern:** [Awais Sajjad]
 **Week:** 2
 
