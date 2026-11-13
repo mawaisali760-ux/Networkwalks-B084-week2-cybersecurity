@@ -1,6 +1,6 @@
 # Module 1 – Footprinting with Multiple Tools
 
-**Internship:** [Networkwalks]
+**Internship:** [Networkwalks-Cybersecurity]
 **Intern:** [Awais Sajjad]
 **Week:** 2
 
